@@ -1,0 +1,20 @@
+[
+  {
+    "FirstName": "Jan",
+    "LastName": "Kowalski",
+    "Gender": "M",
+    "PostCode": "60-000",
+    "City": "Poznan",
+    "Street": "Ratajczaka",
+    "HouseNumber": "10"
+  },
+  {
+    "FirstName": "Anna",
+    "LastName": "Kowalska",
+    "Gender": "F",
+    "PostCode": "60-000",
+    "City": "Poznan",
+    "Street": "Ratajczaka",
+    "HouseNumber": "10"
+  }
+]
